@@ -1,0 +1,14 @@
+#box{
+    width:10rem;
+    height:10rem;
+    border: 1px solid ;
+    background-color: black;
+    margin: 10px;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
